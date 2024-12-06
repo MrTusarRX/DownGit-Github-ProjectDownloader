@@ -61,7 +61,6 @@ public class HelloJni extends Activity {
     private void showDownloadOverlay() {
         View overlay = getLayoutInflater().inflate(R.layout.overlay_download, null);
 
-        // Find UI elements
         progressBar = overlay.findViewById(R.id.progressBar);
         progressText = overlay.findViewById(R.id.progressText);
         btnPause = overlay.findViewById(R.id.btnPause);
@@ -80,7 +79,7 @@ public class HelloJni extends Activity {
 
         
 
-        // Cancel Button Logic
+        /* Cancel Button Logic */
         btnCancel.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {

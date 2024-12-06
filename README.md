@@ -1,4 +1,3 @@
-# DownGit-Github-ProjectDownloader
 # DownGit - GitHub Project Downloader
 
 **DownGit** is a lightweight tool that simplifies downloading specific files or entire directories from GitHub repositories. It provides an efficient and user-friendly way to fetch GitHub content without cloning the entire repository.

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:31
+-keep class com.mycompany.myndkapp.HelloJni { <init>(...); }
+

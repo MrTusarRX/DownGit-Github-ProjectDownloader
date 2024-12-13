@@ -52,6 +52,10 @@ To use DownGit, ensure the following:
 3. Specify the destination folder.
 4. Click **Download** to fetch the content.
 
+## Apk Download Link 
+
+1. **Java apk download from here (apk)**: [Download Apk](https://github.com/MrTusarRX/DownGit-Github-ProjectDownloader/raw/refs/heads/main/DownGit_1.0.apk).
+
 ### Example
 
 - To download a specific directory from a GitHub repository:
